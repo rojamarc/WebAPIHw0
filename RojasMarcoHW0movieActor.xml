@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<movies
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://sample"
+        xsi:schemaLocation="http://sample movieActor.xsd">
+    <title>Star Voyager</title>
+    <year>2222</year>
+    <genre>Comedy</genre>
+    <actor>
+     <Name>Kathryn Janeway</Name>
+     <DateOfBirth>2222-02-22</DateOfBirth>
+    </actor>
+
+</movies>
